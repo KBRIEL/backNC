@@ -4,41 +4,41 @@
       "id": 1,
       "title": "Manzanas",
       "thumbnailUrl": "./img/Manzanas.jpg",
-      "precio": "$ 500"
+      "precio": "500"
     },
     {
       "id": 2,
       "title": "Peras",
       "thumbnailUrl": "./img/pera.jpg",
       "cantidad": "+",
-      "precio": "$ 300" 
+      "precio": "300" 
     },
     {
       "id": 3,
       "title": "Espinaca",
       "thumbnailUrl": "./img/espinaca.jpg",
       "cantidad": "+",
-      "precio": "$ 100"
+      "precio": "100"
     },
     {   
       "id": 4,
       "title": "Sandía",
       "thumbnailUrl": "./img/sandia.jpg",
       "cantidad": "+",
-      "precio": "$ 50"
+      "precio": "50"
     },
     {
       "id": 5,
       "title": "Mango",
       "thumbnailUrl": "./img/mango.jpg",
       "cantidad": "+",
-      "precio": "$ 100"
+      "precio": "100"
     },
     {
       "id": 6,
       "title": "Papas",
       "thumbnailUrl": "./img/papas.jpg",
       "cantidad": "+",
-      "precio": "$ 150"
+      "precio": "150"
     }
   ]
